@@ -9,7 +9,7 @@ You can Visit My Webpage on : https://gitansh.me/Form
 
 **Language:** HTML, CSS.
 
-**Graphic Tools:** Sublime Text, VS-Code.
+**IDE/Tools:** Sublime Text, VS-Code.
 
 **Hosting:** Github.
 
