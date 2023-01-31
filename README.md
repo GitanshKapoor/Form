@@ -2,7 +2,7 @@
 
 Developed a Simple Form.
 
-You can Visit My Webpage on : https://gitansh.me/Form
+You can Visit My Webpage on : https://gitansh.tech/Form
 
 
 ## Tech Stack
